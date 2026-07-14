@@ -1,0 +1,14 @@
+{
+  "name": "validador-convite-ia",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico para demonstrar o uso do GitHub Copilot e GitHub Actions no desenvolvimento de software.",
+  "main": "src/convite.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
