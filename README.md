@@ -1,5 +1,5 @@
 # Validador de Convite com IA
-
+![CI](https://github.com/hugojsimoes/validador-convite-ia/actions/workflows/ci.yml/badge.svg)
 
 Projeto acadêmico desenvolvido para demonstrar como o GitHub Copilot pode acelerar a criação de código e testes, enquanto o GitHub Actions automatiza a execução dos testes no processo de CI/CD.
 
